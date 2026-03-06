@@ -25,4 +25,5 @@ This project is a simple Employee Management Dashboard built using HTML, CSS, an
 The project is deployed using Netlify.
 
 Live Demo:
-https://employee-management-dashboard.netlify.app
+https://employee-dashboard-shiva.netlify.app
+
